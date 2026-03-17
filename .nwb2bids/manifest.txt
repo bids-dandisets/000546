@@ -1,0 +1,15 @@
+dandiset.yaml
+dataset_description.json
+participants.tsv
+participants.json
+derivatives/dataset_description.json
+sub-M322/sub-M322_sessions.tsv
+sub-M322/sub-M322_sessions.json
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_ecephys.json
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_probes.tsv
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_probes.json
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_channels.tsv
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_channels.json
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_electrodes.tsv
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_electrodes.json
+sub-M322/ses-59e15b7c+7810+4c39+9890+efe596f6f951/ecephys/sub-M322_ses-59e15b7c+7810+4c39+9890+efe596f6f951_ecephys.nwb
