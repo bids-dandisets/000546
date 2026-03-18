@@ -1,0 +1,77 @@
+	[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.
+		SourceDatasets
+		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
+Valid keys in each object include `"URL"`, `"DOI"` (see
+[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
+`"Version"` with
+[string](https://www.w3schools.com/js/js_json_datatypes.asp)
+values.
+
+
+	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
+
+	[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.
+		InstitutionName
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.nwb - Field description: The name of the institution in charge of the equipment that produced the
+measurements.
+
+
+		Manufacturer
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+
+
+		RecordingDuration
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+
+
+		RecordingType
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+
+
+		BodyPart
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+
+
+		BodyPartDetails
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+
+
+	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
+
+	[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.
+		sampling_frequency
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_channels.json - Format "string" must be number
+
+		x
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_electrodes.json - Format "string" must be number
+
+		y
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_electrodes.json - Format "string" must be number
+
+		impedance
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_electrodes.json - Format "string" must be number
+
+	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.
+
+	[ERROR] TSV_VALUE_INCORRECT_TYPE A value in a column did not match the acceptable type for that column headers specified format.
+		session_id
+		/sub-M322/sub-M322_sessions.tsv - 'ses-59e15b7c-7810-4c39-9890-efe596f6f951'
+
+	Please visit https://neurostars.org/search?q=TSV_VALUE_INCORRECT_TYPE for existing conversations about this issue.
+
+	[ERROR] INVALID_ENTITY_LABEL entity label doesn't match format found for files with this suffix
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_probes.json - entity: ses label: 59e15b7c-7810-4c39-9890-efe596f6f951 pattern: [0-9a-zA-Z+]+
+		/sub-M322/ses-59e15b7c-7810-4c39-9890-efe596f6f951/ecephys/sub-M322_ses-59e15b7c-7810-4c39-9890-efe596f6f951_ecephys.json - entity: ses label: 59e15b7c-7810-4c39-9890-efe596f6f951 pattern: [0-9a-zA-Z+]+
+
+		6 more files with the same issue
+
+	Please visit https://neurostars.org/search?q=INVALID_ENTITY_LABEL for existing conversations about this issue.
+
+
+          Summary:                         Available Tasks:        Available Modalities:
+          13 Files, 8.94 kB                                        microephys           
+          1 - Subjects 1 - Sessions                                                     
+
+	If you have any questions, please post on https://neurostars.org/tags/bids.
