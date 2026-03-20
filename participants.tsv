@@ -1,2 +1,2 @@
-participant_id	species	sex
-sub-M322	Mus muscululs	M
+participant_id	original_participant_id	species	sex
+sub-M322	sub-M322	Mus muscululs	M

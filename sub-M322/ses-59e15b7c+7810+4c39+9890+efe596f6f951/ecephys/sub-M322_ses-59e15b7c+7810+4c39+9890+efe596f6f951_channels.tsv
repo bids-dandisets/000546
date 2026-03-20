@@ -1,39 +1,39 @@
-name	electrode_name	type	units
-CSC1	e000	n/a	V
-CSC10	e001	n/a	V
-CSC11	e002	n/a	V
-CSC12	e003	n/a	V
-CSC13	e004	n/a	V
-CSC14	e005	n/a	V
-CSC15	e006	n/a	V
-CSC16	e007	n/a	V
-CSC17	e008	n/a	V
-CSC18	e009	n/a	V
-CSC19	e010	n/a	V
-CSC2	e011	n/a	V
-CSC20	e012	n/a	V
-CSC21	e013	n/a	V
-CSC22	e014	n/a	V
-CSC23	e015	n/a	V
-CSC24	e016	n/a	V
-CSC25	e017	n/a	V
-CSC26	e018	n/a	V
-CSC27	e019	n/a	V
-CSC28	e020	n/a	V
-CSC29	e021	n/a	V
-CSC3	e022	n/a	V
-CSC30	e023	n/a	V
-CSC31	e024	n/a	V
-CSC32	e025	n/a	V
-CSC4	e026	n/a	V
-CSC5	e027	n/a	V
-CSC6	e028	n/a	V
-CSC7	e029	n/a	V
-CSC8	e030	n/a	V
-CSC9	e031	n/a	V
-LFP15	e032	n/a	V
-LFP18	e033	n/a	V
-LFP29	e034	n/a	V
-LFP3	e035	n/a	V
-R1	e036	n/a	V
-R4	e037	n/a	V
+name	electrode_name	type	units	sampling_frequency
+CSC1	e000	n/a	V	-1.0
+CSC10	e001	n/a	V	-1.0
+CSC11	e002	n/a	V	-1.0
+CSC12	e003	n/a	V	-1.0
+CSC13	e004	n/a	V	-1.0
+CSC14	e005	n/a	V	-1.0
+CSC15	e006	n/a	V	-1.0
+CSC16	e007	n/a	V	-1.0
+CSC17	e008	n/a	V	-1.0
+CSC18	e009	n/a	V	-1.0
+CSC19	e010	n/a	V	-1.0
+CSC2	e011	n/a	V	-1.0
+CSC20	e012	n/a	V	-1.0
+CSC21	e013	n/a	V	-1.0
+CSC22	e014	n/a	V	-1.0
+CSC23	e015	n/a	V	-1.0
+CSC24	e016	n/a	V	-1.0
+CSC25	e017	n/a	V	-1.0
+CSC26	e018	n/a	V	-1.0
+CSC27	e019	n/a	V	-1.0
+CSC28	e020	n/a	V	-1.0
+CSC29	e021	n/a	V	-1.0
+CSC3	e022	n/a	V	-1.0
+CSC30	e023	n/a	V	-1.0
+CSC31	e024	n/a	V	-1.0
+CSC32	e025	n/a	V	-1.0
+CSC4	e026	n/a	V	-1.0
+CSC5	e027	n/a	V	-1.0
+CSC6	e028	n/a	V	-1.0
+CSC7	e029	n/a	V	-1.0
+CSC8	e030	n/a	V	-1.0
+CSC9	e031	n/a	V	-1.0
+LFP15	e032	n/a	V	-1.0
+LFP18	e033	n/a	V	-1.0
+LFP29	e034	n/a	V	-1.0
+LFP3	e035	n/a	V	-1.0
+R1	e036	n/a	V	-1.0
+R4	e037	n/a	V	-1.0
