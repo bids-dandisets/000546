@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Extracellular ephys recording in the ventral Striatum",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Christian, Horea"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
